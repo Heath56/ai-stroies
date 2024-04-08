@@ -1,0 +1,35 @@
+img {
+    display: block;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    border-radius: 20%;
+}
+h1 {
+    color:#e4f1fe ;
+    background-color:#34495e ;
+    display: block;
+    padding-left: 30rem;
+    font-weight: bold;
+    font-family:luminari;
+}
+* {
+    background-color:#22313f  ;
+} 
+p, a {
+    color:#8dc6ff ;
+    font-family:'apple chancery';
+    font-size: larger;
+}
+.ogre {
+    display: block;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    border-radius: 20%; 
+}
+.chapter {
+    padding-left: 3%;
+}
